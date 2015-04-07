@@ -8,7 +8,7 @@ User can search sort and paginate the data presentation pretty quickly and fancy
 using Angular.JS
 
 -->
-<apex:page standardStylesheets="false" sidebar="false" showHeader="false" controller="AngularJSDemoController">
+<apex:page standardStylesheets="false"   showHeader="false" controller="AngularJSDemoController">
     <html xmlns:ng="http://angularjs.org" ng-app="hello" lang="en">
         <head>
             <meta charset="utf-8"/>
